@@ -1,0 +1,8 @@
+C:\Users\LuisAndaur\source\repos\Ejercicios\Clase1_Form\obj\Debug\net5.0-windows\HeroeApp.csproj.AssemblyReference.cache
+C:\Users\LuisAndaur\source\repos\Ejercicios\Clase1_Form\obj\Debug\net5.0-windows\HeroeApp.FrmHeroe.resources
+C:\Users\LuisAndaur\source\repos\Ejercicios\Clase1_Form\obj\Debug\net5.0-windows\HeroeApp.FrmUniverso.resources
+C:\Users\LuisAndaur\source\repos\Ejercicios\Clase1_Form\obj\Debug\net5.0-windows\HeroeApp.csproj.GenerateResource.cache
+C:\Users\LuisAndaur\source\repos\Ejercicios\Clase1_Form\obj\Debug\net5.0-windows\HeroeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisAndaur\source\repos\Ejercicios\Clase1_Form\obj\Debug\net5.0-windows\HeroeApp.AssemblyInfoInputs.cache
+C:\Users\LuisAndaur\source\repos\Ejercicios\Clase1_Form\obj\Debug\net5.0-windows\HeroeApp.AssemblyInfo.cs
+C:\Users\LuisAndaur\source\repos\Ejercicios\Clase1_Form\obj\Debug\net5.0-windows\HeroeApp.csproj.CoreCompileInputs.cache

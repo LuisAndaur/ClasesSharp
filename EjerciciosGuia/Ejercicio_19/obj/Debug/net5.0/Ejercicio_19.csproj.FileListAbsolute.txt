@@ -1,0 +1,16 @@
+C:\Users\LuisAndaur\source\repos\EjerciciosGuia\Ejercicio_19\bin\Debug\net5.0\Ejercicio_19.exe
+C:\Users\LuisAndaur\source\repos\EjerciciosGuia\Ejercicio_19\bin\Debug\net5.0\Ejercicio_19.deps.json
+C:\Users\LuisAndaur\source\repos\EjerciciosGuia\Ejercicio_19\bin\Debug\net5.0\Ejercicio_19.runtimeconfig.json
+C:\Users\LuisAndaur\source\repos\EjerciciosGuia\Ejercicio_19\bin\Debug\net5.0\Ejercicio_19.runtimeconfig.dev.json
+C:\Users\LuisAndaur\source\repos\EjerciciosGuia\Ejercicio_19\bin\Debug\net5.0\Ejercicio_19.dll
+C:\Users\LuisAndaur\source\repos\EjerciciosGuia\Ejercicio_19\bin\Debug\net5.0\ref\Ejercicio_19.dll
+C:\Users\LuisAndaur\source\repos\EjerciciosGuia\Ejercicio_19\bin\Debug\net5.0\Ejercicio_19.pdb
+C:\Users\LuisAndaur\source\repos\EjerciciosGuia\Ejercicio_19\obj\Debug\net5.0\Ejercicio_19.csproj.AssemblyReference.cache
+C:\Users\LuisAndaur\source\repos\EjerciciosGuia\Ejercicio_19\obj\Debug\net5.0\Ejercicio_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisAndaur\source\repos\EjerciciosGuia\Ejercicio_19\obj\Debug\net5.0\Ejercicio_19.AssemblyInfoInputs.cache
+C:\Users\LuisAndaur\source\repos\EjerciciosGuia\Ejercicio_19\obj\Debug\net5.0\Ejercicio_19.AssemblyInfo.cs
+C:\Users\LuisAndaur\source\repos\EjerciciosGuia\Ejercicio_19\obj\Debug\net5.0\Ejercicio_19.csproj.CoreCompileInputs.cache
+C:\Users\LuisAndaur\source\repos\EjerciciosGuia\Ejercicio_19\obj\Debug\net5.0\Ejercicio_19.dll
+C:\Users\LuisAndaur\source\repos\EjerciciosGuia\Ejercicio_19\obj\Debug\net5.0\ref\Ejercicio_19.dll
+C:\Users\LuisAndaur\source\repos\EjerciciosGuia\Ejercicio_19\obj\Debug\net5.0\Ejercicio_19.pdb
+C:\Users\LuisAndaur\source\repos\EjerciciosGuia\Ejercicio_19\obj\Debug\net5.0\Ejercicio_19.genruntimeconfig.cache

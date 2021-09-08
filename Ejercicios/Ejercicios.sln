@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeroeApp", "Clase1_Form\HeroeApp.csproj", "{C473853C-6F8C-4D16-8090-78FE0E82A244}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{2EF32C7E-7BF5-4C52-AF4E-493698A56291}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Form_Clase1", "Form_Clase1", "{BF65865F-8229-4457-B5DC-EBBECC35EB12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C473853C-6F8C-4D16-8090-78FE0E82A244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C473853C-6F8C-4D16-8090-78FE0E82A244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C473853C-6F8C-4D16-8090-78FE0E82A244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C473853C-6F8C-4D16-8090-78FE0E82A244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF32C7E-7BF5-4C52-AF4E-493698A56291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF32C7E-7BF5-4C52-AF4E-493698A56291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF32C7E-7BF5-4C52-AF4E-493698A56291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF32C7E-7BF5-4C52-AF4E-493698A56291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C473853C-6F8C-4D16-8090-78FE0E82A244} = {BF65865F-8229-4457-B5DC-EBBECC35EB12}
+		{2EF32C7E-7BF5-4C52-AF4E-493698A56291} = {BF65865F-8229-4457-B5DC-EBBECC35EB12}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF8B5319-667F-4BE0-ACAA-DBE8CB3C6ECA}
+	EndGlobalSection
+EndGlobal
