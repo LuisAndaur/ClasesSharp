@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "03ba0075-5780-4a56-b0fb-dff2aefbad53": {
+      "ProjectGuid": "03ba0075-5780-4a56-b0fb-dff2aefbad53",
+      "DisplayName": "PruebaGenerics",
+      "ColorIndex": 0
+    },
+    "39dcf5a8-f857-4ce8-bf8f-a2d899804ae9": {
+      "ProjectGuid": "39dcf5a8-f857-4ce8-bf8f-a2d899804ae9",
+      "DisplayName": "Entidades",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

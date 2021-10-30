@@ -1,0 +1,11 @@
+C:\Users\LuisAndaur\source\repos\Centralita\EntidadesCentralita\bin\Debug\net5.0\EntidadesCentralita.deps.json
+C:\Users\LuisAndaur\source\repos\Centralita\EntidadesCentralita\bin\Debug\net5.0\EntidadesCentralita.dll
+C:\Users\LuisAndaur\source\repos\Centralita\EntidadesCentralita\bin\Debug\net5.0\ref\EntidadesCentralita.dll
+C:\Users\LuisAndaur\source\repos\Centralita\EntidadesCentralita\bin\Debug\net5.0\EntidadesCentralita.pdb
+C:\Users\LuisAndaur\source\repos\Centralita\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisAndaur\source\repos\Centralita\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.AssemblyInfoInputs.cache
+C:\Users\LuisAndaur\source\repos\Centralita\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.AssemblyInfo.cs
+C:\Users\LuisAndaur\source\repos\Centralita\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.csproj.CoreCompileInputs.cache
+C:\Users\LuisAndaur\source\repos\Centralita\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.dll
+C:\Users\LuisAndaur\source\repos\Centralita\EntidadesCentralita\obj\Debug\net5.0\ref\EntidadesCentralita.dll
+C:\Users\LuisAndaur\source\repos\Centralita\EntidadesCentralita\obj\Debug\net5.0\EntidadesCentralita.pdb

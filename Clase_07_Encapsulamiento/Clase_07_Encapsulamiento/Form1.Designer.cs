@@ -65,9 +65,9 @@ namespace Clase_07_Encapsulamiento
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(37, 67);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(44, 15);
+            this.label1.Size = new System.Drawing.Size(58, 15);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Cliente";
+            this.label1.Text = "ID Cliente";
             // 
             // label2
             // 
@@ -92,6 +92,7 @@ namespace Clase_07_Encapsulamiento
             // 
             this.txtNombre.Location = new System.Drawing.Point(37, 138);
             this.txtNombre.Name = "txtNombre";
+            this.txtNombre.ReadOnly = true;
             this.txtNombre.Size = new System.Drawing.Size(158, 23);
             this.txtNombre.TabIndex = 5;
             // 
@@ -108,6 +109,7 @@ namespace Clase_07_Encapsulamiento
             // 
             this.txtMarca.Location = new System.Drawing.Point(216, 85);
             this.txtMarca.Name = "txtMarca";
+            this.txtMarca.ReadOnly = true;
             this.txtMarca.Size = new System.Drawing.Size(158, 23);
             this.txtMarca.TabIndex = 9;
             // 
@@ -124,6 +126,7 @@ namespace Clase_07_Encapsulamiento
             // 
             this.txtModelo.Location = new System.Drawing.Point(216, 140);
             this.txtModelo.Name = "txtModelo";
+            this.txtModelo.ReadOnly = true;
             this.txtModelo.Size = new System.Drawing.Size(158, 23);
             this.txtModelo.TabIndex = 11;
             // 
@@ -140,6 +143,7 @@ namespace Clase_07_Encapsulamiento
             // 
             this.txtPrecio.Location = new System.Drawing.Point(217, 196);
             this.txtPrecio.Name = "txtPrecio";
+            this.txtPrecio.ReadOnly = true;
             this.txtPrecio.Size = new System.Drawing.Size(158, 23);
             this.txtPrecio.TabIndex = 13;
             // 

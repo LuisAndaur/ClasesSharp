@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Frm_CentralTelefonica/1.0.0": {
+        "runtime": {
+          "Frm_CentralTelefonica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Frm_CentralTelefonica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

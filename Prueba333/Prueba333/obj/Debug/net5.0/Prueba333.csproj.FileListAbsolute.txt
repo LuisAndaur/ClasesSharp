@@ -1,0 +1,16 @@
+C:\Users\LuisAndaur\source\repos\Prueba333\Prueba333\bin\Debug\net5.0\Prueba333.exe
+C:\Users\LuisAndaur\source\repos\Prueba333\Prueba333\bin\Debug\net5.0\Prueba333.deps.json
+C:\Users\LuisAndaur\source\repos\Prueba333\Prueba333\bin\Debug\net5.0\Prueba333.runtimeconfig.json
+C:\Users\LuisAndaur\source\repos\Prueba333\Prueba333\bin\Debug\net5.0\Prueba333.runtimeconfig.dev.json
+C:\Users\LuisAndaur\source\repos\Prueba333\Prueba333\bin\Debug\net5.0\Prueba333.dll
+C:\Users\LuisAndaur\source\repos\Prueba333\Prueba333\bin\Debug\net5.0\ref\Prueba333.dll
+C:\Users\LuisAndaur\source\repos\Prueba333\Prueba333\bin\Debug\net5.0\Prueba333.pdb
+C:\Users\LuisAndaur\source\repos\Prueba333\Prueba333\obj\Debug\net5.0\Prueba333.csproj.AssemblyReference.cache
+C:\Users\LuisAndaur\source\repos\Prueba333\Prueba333\obj\Debug\net5.0\Prueba333.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisAndaur\source\repos\Prueba333\Prueba333\obj\Debug\net5.0\Prueba333.AssemblyInfoInputs.cache
+C:\Users\LuisAndaur\source\repos\Prueba333\Prueba333\obj\Debug\net5.0\Prueba333.AssemblyInfo.cs
+C:\Users\LuisAndaur\source\repos\Prueba333\Prueba333\obj\Debug\net5.0\Prueba333.csproj.CoreCompileInputs.cache
+C:\Users\LuisAndaur\source\repos\Prueba333\Prueba333\obj\Debug\net5.0\Prueba333.dll
+C:\Users\LuisAndaur\source\repos\Prueba333\Prueba333\obj\Debug\net5.0\ref\Prueba333.dll
+C:\Users\LuisAndaur\source\repos\Prueba333\Prueba333\obj\Debug\net5.0\Prueba333.pdb
+C:\Users\LuisAndaur\source\repos\Prueba333\Prueba333\obj\Debug\net5.0\Prueba333.genruntimeconfig.cache

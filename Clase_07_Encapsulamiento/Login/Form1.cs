@@ -7,15 +7,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Entidades;
 
 namespace Login
 {
     public partial class Form1 : Form
     {
+        public List<Usuario> usuarios;
         public Form1()
         {
             InitializeComponent();
         }
 
+        private void btnIngresar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

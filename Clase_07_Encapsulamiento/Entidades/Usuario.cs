@@ -6,18 +6,18 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    class Usuario
+    public class Usuario
     {
-        private string usuario;
+        private Cliente usuario;
         private string pass;
 
-        public Usuario(string usuario, string pass)
+        public Usuario(Cliente usuario, string pass)
         {
             this.usuario = usuario;
             this.pass = pass;
         }
 
-        public string Usuarios
+        public Cliente Usuarios
         {
             get { return this.usuario; }
             set { this.usuario = value;  }
@@ -28,5 +28,7 @@ namespace Entidades
             get { return this.pass; }
             set { this.pass = value; }
         }
+
+        
     }
 }

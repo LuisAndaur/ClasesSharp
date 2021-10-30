@@ -1,0 +1,14 @@
+C:\Users\LuisAndaur\source\repos\ConexionSQL\MensajesEntidades\bin\Debug\net5.0\MensajesEntidades.deps.json
+C:\Users\LuisAndaur\source\repos\ConexionSQL\MensajesEntidades\bin\Debug\net5.0\MensajesEntidades.dll
+C:\Users\LuisAndaur\source\repos\ConexionSQL\MensajesEntidades\bin\Debug\net5.0\ref\MensajesEntidades.dll
+C:\Users\LuisAndaur\source\repos\ConexionSQL\MensajesEntidades\bin\Debug\net5.0\MensajesEntidades.pdb
+C:\Users\LuisAndaur\source\repos\ConexionSQL\MensajesEntidades\obj\Debug\net5.0\MensajesEntidades.csproj.AssemblyReference.cache
+C:\Users\LuisAndaur\source\repos\ConexionSQL\MensajesEntidades\obj\Debug\net5.0\MensajesEntidades.Properties.Resources.resources
+C:\Users\LuisAndaur\source\repos\ConexionSQL\MensajesEntidades\obj\Debug\net5.0\MensajesEntidades.csproj.GenerateResource.cache
+C:\Users\LuisAndaur\source\repos\ConexionSQL\MensajesEntidades\obj\Debug\net5.0\MensajesEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisAndaur\source\repos\ConexionSQL\MensajesEntidades\obj\Debug\net5.0\MensajesEntidades.AssemblyInfoInputs.cache
+C:\Users\LuisAndaur\source\repos\ConexionSQL\MensajesEntidades\obj\Debug\net5.0\MensajesEntidades.AssemblyInfo.cs
+C:\Users\LuisAndaur\source\repos\ConexionSQL\MensajesEntidades\obj\Debug\net5.0\MensajesEntidades.csproj.CoreCompileInputs.cache
+C:\Users\LuisAndaur\source\repos\ConexionSQL\MensajesEntidades\obj\Debug\net5.0\MensajesEntidades.dll
+C:\Users\LuisAndaur\source\repos\ConexionSQL\MensajesEntidades\obj\Debug\net5.0\ref\MensajesEntidades.dll
+C:\Users\LuisAndaur\source\repos\ConexionSQL\MensajesEntidades\obj\Debug\net5.0\MensajesEntidades.pdb

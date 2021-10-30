@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6e89e894-27ac-47bb-9975-bd1fb0aa4873": {
+      "ProjectGuid": "6e89e894-27ac-47bb-9975-bd1fb0aa4873",
+      "DisplayName": "Frm_CentralTelefonica",
+      "ColorIndex": 0
+    },
+    "c57ab494-1a53-46dd-b895-68034b981d0a": {
+      "ProjectGuid": "c57ab494-1a53-46dd-b895-68034b981d0a",
+      "DisplayName": "EntidadesCentralita",
+      "ColorIndex": 1
+    },
+    "38002934-c231-4e33-b13d-f0b831edd8c0": {
+      "ProjectGuid": "38002934-c231-4e33-b13d-f0b831edd8c0",
+      "DisplayName": "Test",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

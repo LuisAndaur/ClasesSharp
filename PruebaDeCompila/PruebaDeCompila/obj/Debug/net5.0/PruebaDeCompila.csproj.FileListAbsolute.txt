@@ -1,0 +1,15 @@
+C:\Users\LuisAndaur\source\repos\PruebaDeCompila\PruebaDeCompila\bin\Debug\net5.0\PruebaDeCompila.exe
+C:\Users\LuisAndaur\source\repos\PruebaDeCompila\PruebaDeCompila\bin\Debug\net5.0\PruebaDeCompila.deps.json
+C:\Users\LuisAndaur\source\repos\PruebaDeCompila\PruebaDeCompila\bin\Debug\net5.0\PruebaDeCompila.runtimeconfig.json
+C:\Users\LuisAndaur\source\repos\PruebaDeCompila\PruebaDeCompila\bin\Debug\net5.0\PruebaDeCompila.runtimeconfig.dev.json
+C:\Users\LuisAndaur\source\repos\PruebaDeCompila\PruebaDeCompila\bin\Debug\net5.0\PruebaDeCompila.dll
+C:\Users\LuisAndaur\source\repos\PruebaDeCompila\PruebaDeCompila\bin\Debug\net5.0\ref\PruebaDeCompila.dll
+C:\Users\LuisAndaur\source\repos\PruebaDeCompila\PruebaDeCompila\bin\Debug\net5.0\PruebaDeCompila.pdb
+C:\Users\LuisAndaur\source\repos\PruebaDeCompila\PruebaDeCompila\obj\Debug\net5.0\PruebaDeCompila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisAndaur\source\repos\PruebaDeCompila\PruebaDeCompila\obj\Debug\net5.0\PruebaDeCompila.AssemblyInfoInputs.cache
+C:\Users\LuisAndaur\source\repos\PruebaDeCompila\PruebaDeCompila\obj\Debug\net5.0\PruebaDeCompila.AssemblyInfo.cs
+C:\Users\LuisAndaur\source\repos\PruebaDeCompila\PruebaDeCompila\obj\Debug\net5.0\PruebaDeCompila.csproj.CoreCompileInputs.cache
+C:\Users\LuisAndaur\source\repos\PruebaDeCompila\PruebaDeCompila\obj\Debug\net5.0\PruebaDeCompila.dll
+C:\Users\LuisAndaur\source\repos\PruebaDeCompila\PruebaDeCompila\obj\Debug\net5.0\ref\PruebaDeCompila.dll
+C:\Users\LuisAndaur\source\repos\PruebaDeCompila\PruebaDeCompila\obj\Debug\net5.0\PruebaDeCompila.pdb
+C:\Users\LuisAndaur\source\repos\PruebaDeCompila\PruebaDeCompila\obj\Debug\net5.0\PruebaDeCompila.genruntimeconfig.cache

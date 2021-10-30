@@ -1,0 +1,16 @@
+C:\Users\LuisAndaur\source\repos\pruebaExam\pruebaExam\bin\Debug\net5.0\pruebaExam.exe
+C:\Users\LuisAndaur\source\repos\pruebaExam\pruebaExam\bin\Debug\net5.0\pruebaExam.deps.json
+C:\Users\LuisAndaur\source\repos\pruebaExam\pruebaExam\bin\Debug\net5.0\pruebaExam.runtimeconfig.json
+C:\Users\LuisAndaur\source\repos\pruebaExam\pruebaExam\bin\Debug\net5.0\pruebaExam.runtimeconfig.dev.json
+C:\Users\LuisAndaur\source\repos\pruebaExam\pruebaExam\bin\Debug\net5.0\pruebaExam.dll
+C:\Users\LuisAndaur\source\repos\pruebaExam\pruebaExam\bin\Debug\net5.0\ref\pruebaExam.dll
+C:\Users\LuisAndaur\source\repos\pruebaExam\pruebaExam\bin\Debug\net5.0\pruebaExam.pdb
+C:\Users\LuisAndaur\source\repos\pruebaExam\pruebaExam\obj\Debug\net5.0\pruebaExam.csproj.AssemblyReference.cache
+C:\Users\LuisAndaur\source\repos\pruebaExam\pruebaExam\obj\Debug\net5.0\pruebaExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisAndaur\source\repos\pruebaExam\pruebaExam\obj\Debug\net5.0\pruebaExam.AssemblyInfoInputs.cache
+C:\Users\LuisAndaur\source\repos\pruebaExam\pruebaExam\obj\Debug\net5.0\pruebaExam.AssemblyInfo.cs
+C:\Users\LuisAndaur\source\repos\pruebaExam\pruebaExam\obj\Debug\net5.0\pruebaExam.csproj.CoreCompileInputs.cache
+C:\Users\LuisAndaur\source\repos\pruebaExam\pruebaExam\obj\Debug\net5.0\pruebaExam.dll
+C:\Users\LuisAndaur\source\repos\pruebaExam\pruebaExam\obj\Debug\net5.0\ref\pruebaExam.dll
+C:\Users\LuisAndaur\source\repos\pruebaExam\pruebaExam\obj\Debug\net5.0\pruebaExam.pdb
+C:\Users\LuisAndaur\source\repos\pruebaExam\pruebaExam\obj\Debug\net5.0\pruebaExam.genruntimeconfig.cache
