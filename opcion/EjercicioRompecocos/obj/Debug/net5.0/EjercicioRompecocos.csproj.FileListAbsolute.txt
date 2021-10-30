@@ -1,0 +1,16 @@
+D:\TUP\2do Cuatrimestre 2021\Programación y Laboratorio 2\Repaso sabados\TorneoDeveloper\EjercicioRompecocos\bin\Debug\net5.0\EjercicioRompecocos.exe
+D:\TUP\2do Cuatrimestre 2021\Programación y Laboratorio 2\Repaso sabados\TorneoDeveloper\EjercicioRompecocos\bin\Debug\net5.0\EjercicioRompecocos.deps.json
+D:\TUP\2do Cuatrimestre 2021\Programación y Laboratorio 2\Repaso sabados\TorneoDeveloper\EjercicioRompecocos\bin\Debug\net5.0\EjercicioRompecocos.runtimeconfig.json
+D:\TUP\2do Cuatrimestre 2021\Programación y Laboratorio 2\Repaso sabados\TorneoDeveloper\EjercicioRompecocos\bin\Debug\net5.0\EjercicioRompecocos.runtimeconfig.dev.json
+D:\TUP\2do Cuatrimestre 2021\Programación y Laboratorio 2\Repaso sabados\TorneoDeveloper\EjercicioRompecocos\bin\Debug\net5.0\EjercicioRompecocos.dll
+D:\TUP\2do Cuatrimestre 2021\Programación y Laboratorio 2\Repaso sabados\TorneoDeveloper\EjercicioRompecocos\bin\Debug\net5.0\ref\EjercicioRompecocos.dll
+D:\TUP\2do Cuatrimestre 2021\Programación y Laboratorio 2\Repaso sabados\TorneoDeveloper\EjercicioRompecocos\bin\Debug\net5.0\EjercicioRompecocos.pdb
+D:\TUP\2do Cuatrimestre 2021\Programación y Laboratorio 2\Repaso sabados\TorneoDeveloper\EjercicioRompecocos\obj\Debug\net5.0\EjercicioRompecocos.csproj.AssemblyReference.cache
+D:\TUP\2do Cuatrimestre 2021\Programación y Laboratorio 2\Repaso sabados\TorneoDeveloper\EjercicioRompecocos\obj\Debug\net5.0\EjercicioRompecocos.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\2do Cuatrimestre 2021\Programación y Laboratorio 2\Repaso sabados\TorneoDeveloper\EjercicioRompecocos\obj\Debug\net5.0\EjercicioRompecocos.AssemblyInfoInputs.cache
+D:\TUP\2do Cuatrimestre 2021\Programación y Laboratorio 2\Repaso sabados\TorneoDeveloper\EjercicioRompecocos\obj\Debug\net5.0\EjercicioRompecocos.AssemblyInfo.cs
+D:\TUP\2do Cuatrimestre 2021\Programación y Laboratorio 2\Repaso sabados\TorneoDeveloper\EjercicioRompecocos\obj\Debug\net5.0\EjercicioRompecocos.csproj.CoreCompileInputs.cache
+D:\TUP\2do Cuatrimestre 2021\Programación y Laboratorio 2\Repaso sabados\TorneoDeveloper\EjercicioRompecocos\obj\Debug\net5.0\EjercicioRompecocos.dll
+D:\TUP\2do Cuatrimestre 2021\Programación y Laboratorio 2\Repaso sabados\TorneoDeveloper\EjercicioRompecocos\obj\Debug\net5.0\ref\EjercicioRompecocos.dll
+D:\TUP\2do Cuatrimestre 2021\Programación y Laboratorio 2\Repaso sabados\TorneoDeveloper\EjercicioRompecocos\obj\Debug\net5.0\EjercicioRompecocos.pdb
+D:\TUP\2do Cuatrimestre 2021\Programación y Laboratorio 2\Repaso sabados\TorneoDeveloper\EjercicioRompecocos\obj\Debug\net5.0\EjercicioRompecocos.genruntimeconfig.cache

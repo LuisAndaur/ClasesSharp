@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Console_TorneoDeveloper/1.0.0": {
+        "runtime": {
+          "Console_TorneoDeveloper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Console_TorneoDeveloper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
